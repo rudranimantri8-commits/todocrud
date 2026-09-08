@@ -6,7 +6,7 @@ const movieForm = document.getElementById("movieForm");
 const movietitle = document.getElementById('movietitle')
 const closeFormBtn = document.querySelectorAll(".closeForm");
 
-const movieAddBtn = document.getElementById("movieAddbtn");
+const movieAddBtn = document.getElementById("movieAddBtn");
 const movieName = document.getElementById("MovieName");
 const movieImg = document.getElementById("MovieImg");
 const movieDesciption = document.getElementById("MovieDesciption");
